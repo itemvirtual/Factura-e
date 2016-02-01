@@ -1,0 +1,8 @@
+{
+    "name": "itemvirtual/Factura-e",
+    "autoload": {
+        "psr-0" : {
+            "Itemvirtual\\FacturaE" : "src"
+        }
+    }
+}
